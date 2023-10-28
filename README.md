@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./files/laryxt.png">
+  <img src="./laryxt.png">
 </div>
